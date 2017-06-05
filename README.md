@@ -1,4 +1,4 @@
 # ffirst-rrepo
 Repo made dor exercise
-We resolvet the conflict!
+Edited again in master branch...
 
