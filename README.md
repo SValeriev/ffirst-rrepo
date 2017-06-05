@@ -1,4 +1,5 @@
 # ffirst-rrepo
+this project will contain...
 Repo made dor exercise
-We resolvet the conflict!
+Hello, again!!!
 
